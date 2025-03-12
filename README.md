@@ -4,7 +4,7 @@ Welcome to my Data Science & Machine Learning project repository! 📊 This repo
 
 ## 📌 Projects Overview
 
-1️⃣ Sentiment Analysis 📝💡
+## 1️⃣ Sentiment Analysis 📝💡
 
 ### Project Goal
 
@@ -37,7 +37,7 @@ https://github.com/FarheenAkhter786/PythonDataScienceProjects/assets/144804109/e
 
 ----
 
-2️⃣ Movie Recommendation System 🎥🍿
+## 2️⃣ Movie Recommendation System 🎥🍿
 
 ### Project Goal
 
@@ -67,7 +67,7 @@ https://github.com/FarheenAkhter786/PythonDataScienceProjects/assets/144804109/2
 
 ---
 
-3️⃣ Churn Detection Model 📉📡
+## 3️⃣ Churn Detection Model 📉📡
 
 ### Project Goal
 
@@ -111,8 +111,8 @@ https://github.com/FarheenAkhter786/PythonDataScienceProjects/assets/144804109/b
 
 📬 Get in Touch
 
-💼 LinkedIn(https://www.linkedin.com/in/farheen-akhter-153a0b156/)
-📧 Email(feenu.akhter@gmail.com)
+💼 [LinkedIn](https://www.linkedin.com/in/farheen-akhter-153a0b156/)
+📧 [Email](feenu.akhter@gmail.com)
 
 
 
