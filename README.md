@@ -112,6 +112,7 @@ https://github.com/FarheenAkhter786/PythonDataScienceProjects/assets/144804109/b
 📬 Get in Touch
 
 💼 [LinkedIn](https://www.linkedin.com/in/farheen-akhter-153a0b156/)
+
 📧 [Email](feenu.akhter@gmail.com)
 
 
