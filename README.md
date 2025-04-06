@@ -63,7 +63,7 @@ To develop a personalized recommendation system that suggests movies to users ba
 
 ### Short Video Glimpse 
 
-https://github.com/FarheenAkhter786/PythonDataScienceProjects/assets/144804109/26061762-8b62-4834-8b1e-00724a97f488
+https://github.com/farheen-akhter-23/PythonDataScienceProjects/assets/144804109/26061762-8b62-4834-8b1e-00724a97f488
 
 ---
 
@@ -96,7 +96,7 @@ To predict customer churn in telecom or banking sectors using machine learning.
 
 ### Short Video Glimpse 
 
-https://github.com/FarheenAkhter786/PythonDataScienceProjects/assets/144804109/b3056e5a-d02a-4256-b299-d95e1addc38a
+https://github.com/farheen-akhter-23/PythonDataScienceProjects/assets/144804109/b3056e5a-d02a-4256-b299-d95e1addc38a
 
 ---
 ## 🔥 Why This Repository?
