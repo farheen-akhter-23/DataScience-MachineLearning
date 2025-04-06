@@ -33,7 +33,7 @@ To analyze text data and determine the sentiment of people's reactions—whether
 
 ### Short Video Glimpse 
 
-https://github.com/FarheenAkhter786/PythonDataScienceProjects/assets/144804109/e7c4cbc5-b432-41c9-8a92-d1845c1fcf94
+https://github.com/farheen-akhter-23/PythonDataScienceProjects/assets/144804109/e7c4cbc5-b432-41c9-8a92-d1845c1fcf94
 
 ----
 
